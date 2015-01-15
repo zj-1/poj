@@ -29,7 +29,7 @@ int find_set(int a)
 void union_set(int a, int b, int pa, int pb, int c)
 {
     p[pb] = pa;
-    // three nodes are linked as `b->rb->a'
+    // three nodes are linked as `b->pb->a'
     r[pb] = (r[a] - r[b] + 2 + c) % 3;
 }
 
