@@ -26,7 +26,7 @@
 ## DFS
 
 [1154] [1154], [1321] [1321], [1562] [1562], [1979] [1979], [2245] [2245],
-[2386] [2386], [1011] [1011], [1088] [1088], [3051] [3051]
+[2386] [2386], [1011] [1011], [1088] [1088], [3051] [3051], [3620] [3620]
 
 ## Heap
 
@@ -77,3 +77,4 @@
 [3278]: https://github.com/zj-1/poj/blob/master/solutions/poj3278.cpp
 [3748]: https://github.com/zj-1/poj/blob/master/solutions/poj3748.cpp
 [3051]: https://github.com/zj-1/poj/blob/master/solutions/poj3051.cpp
+[3620]: https://github.com/zj-1/poj/blob/master/solutions/poj3620.cpp
