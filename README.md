@@ -39,14 +39,13 @@
 
 ## Graph Theory
 
-### MST
-
-### SP
+[1041] [1041]
 
 [1001]: https://github.com/zj-1/poj/blob/master/solutions/poj1001.cpp
 [1007]: https://github.com/zj-1/poj/blob/master/solutions/poj1007.cpp
 [1011]: https://github.com/zj-1/poj/blob/master/solutions/poj1011.cpp
 [1018]: https://github.com/zj-1/poj/blob/master/solutions/poj1018.cpp
+[1041]: https://github.com/zj-1/poj/blob/master/solutions/poj1041.cpp
 [1050]: https://github.com/zj-1/poj/blob/master/solutions/poj1050.cpp
 [1077]: https://github.com/zj-1/poj/blob/master/solutions/poj1077.cpp
 [1088]: https://github.com/zj-1/poj/blob/master/solutions/poj1088.cpp
@@ -74,7 +73,7 @@
 [2524]: https://github.com/zj-1/poj/blob/master/solutions/poj2524.cpp
 [2593]: https://github.com/zj-1/poj/blob/master/solutions/poj2593.cpp
 [2663]: https://github.com/zj-1/poj/blob/master/solutions/poj2663.cpp
-[3278]: https://github.com/zj-1/poj/blob/master/solutions/poj3278.cpp
-[3748]: https://github.com/zj-1/poj/blob/master/solutions/poj3748.cpp
 [3051]: https://github.com/zj-1/poj/blob/master/solutions/poj3051.cpp
+[3278]: https://github.com/zj-1/poj/blob/master/solutions/poj3278.cpp
 [3620]: https://github.com/zj-1/poj/blob/master/solutions/poj3620.cpp
+[3748]: https://github.com/zj-1/poj/blob/master/solutions/poj3748.cpp
