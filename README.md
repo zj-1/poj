@@ -36,7 +36,7 @@
 
 [1041] [1041], [1751] [1751], [2485] [2485], [1861] [1861], [2395] [2395],
 [2377] [2377], [2421] [2421], [1679] [1679], [1258] [1258], [1251] [1251],
-[3625] [3625]
+[3625] [3625], [1789] [1789]
 
 [poj]:  http://poj.org/
 [1001]: https://github.com/zj-1/poj/blob/master/solutions/poj1001.cpp
@@ -58,6 +58,7 @@
 [1679]: https://github.com/zj-1/poj/blob/master/solutions/poj1679.cpp
 [1703]: https://github.com/zj-1/poj/blob/master/solutions/poj1703.cpp
 [1751]: https://github.com/zj-1/poj/blob/master/solutions/poj1751.cpp
+[1789]: https://github.com/zj-1/poj/blob/master/solutions/poj1789.cpp
 [1799]: https://github.com/zj-1/poj/blob/master/solutions/poj1799.cpp
 [1861]: https://github.com/zj-1/poj/blob/master/solutions/poj1861.cpp
 [1922]: https://github.com/zj-1/poj/blob/master/solutions/poj1922.cpp
