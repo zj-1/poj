@@ -39,7 +39,7 @@
 
 ## Graph Theory
 
-[1041] [1041], [1751] [1751]
+[1041] [1041], [1751] [1751], [2485] [2485]
 
 [1001]: https://github.com/zj-1/poj/blob/master/solutions/poj1001.cpp
 [1007]: https://github.com/zj-1/poj/blob/master/solutions/poj1007.cpp
@@ -70,6 +70,7 @@
 [2386]: https://github.com/zj-1/poj/blob/master/solutions/poj2386.cpp
 [2442]: https://github.com/zj-1/poj/blob/master/solutions/poj2442.cpp
 [2479]: https://github.com/zj-1/poj/blob/master/solutions/poj2479.cpp
+[2485]: https://github.com/zj-1/poj/blob/master/solutions/poj2485.cpp
 [2492]: https://github.com/zj-1/poj/blob/master/solutions/poj2492.cpp
 [2524]: https://github.com/zj-1/poj/blob/master/solutions/poj2524.cpp
 [2593]: https://github.com/zj-1/poj/blob/master/solutions/poj2593.cpp
