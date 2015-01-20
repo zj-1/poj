@@ -1,13 +1,9 @@
-# soltions for [poj](http://poj.org/)
+# soltions for [poj] [poj]
 
 ## Simulation
 
 [1401] [1401], [1799] [1799], [1922] [1922], [2136] [2136], [3748] [3748],
-[1007] [1007]
-
-## Hign Precision
-
-[1001] [1001]
+[1007] [1007], [1001] [1001]
 
 ## DP
 
@@ -38,8 +34,9 @@
 
 ## Graph Theory
 
-[1041] [1041], [1751] [1751], [2485] [2485], [1861] [1861]
+[1041] [1041], [1751] [1751], [2485] [2485], [1861] [1861], [2395] [2395]
 
+[poj]:  http://poj.org/
 [1001]: https://github.com/zj-1/poj/blob/master/solutions/poj1001.cpp
 [1007]: https://github.com/zj-1/poj/blob/master/solutions/poj1007.cpp
 [1011]: https://github.com/zj-1/poj/blob/master/solutions/poj1011.cpp
@@ -68,6 +65,7 @@
 [2251]: https://github.com/zj-1/poj/blob/master/solutions/poj2251.cpp
 [2385]: https://github.com/zj-1/poj/blob/master/solutions/poj2385.cpp
 [2386]: https://github.com/zj-1/poj/blob/master/solutions/poj2386.cpp
+[2395]: https://github.com/zj-1/poj/blob/master/solutions/poj2395.cpp
 [2442]: https://github.com/zj-1/poj/blob/master/solutions/poj2442.cpp
 [2479]: https://github.com/zj-1/poj/blob/master/solutions/poj2479.cpp
 [2485]: https://github.com/zj-1/poj/blob/master/solutions/poj2485.cpp
