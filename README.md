@@ -3,25 +3,18 @@
 ## Simulation
 
 [1401] [1401], [1799] [1799], [1922] [1922], [2136] [2136], [3748] [3748],
-[1007] [1007], [1001] [1001]
+[1007] [1007], [1001] [1001], [2495] [2495]
 
-## DP
+## DP & Greedy
 
 [2231] [2231], [2385] [2385], [2479] [2479], [2593] [2593], [2663] [2663],
-[1050] [1050]
+[1050] [1050], [1018] [1018]
 
-## Greedy
+## BFS & DFS
 
-[1018] [1018]
-
-## BFS
-
-[2251] [2251], [3278] [3278], [1077] [1077]
-
-## DFS
-
-[1154] [1154], [1321] [1321], [1562] [1562], [1979] [1979], [2245] [2245],
-[2386] [2386], [1011] [1011], [1088] [1088], [3051] [3051], [3620] [3620]
+[2251] [2251], [3278] [3278], [1077] [1077], [1154] [1154], [1321] [1321],
+[1562] [1562], [1979] [1979], [2245] [2245], [2386] [2386], [1011] [1011],
+[1088] [1088], [3051] [3051], [3620] [3620]
 
 ## Heap
 
@@ -78,6 +71,7 @@
 [2479]: https://github.com/zj-1/poj/blob/master/solutions/poj2479.cpp
 [2485]: https://github.com/zj-1/poj/blob/master/solutions/poj2485.cpp
 [2492]: https://github.com/zj-1/poj/blob/master/solutions/poj2492.cpp
+[2495]: https://github.com/zj-1/poj/blob/master/solutions/poj2495.cpp
 [2524]: https://github.com/zj-1/poj/blob/master/solutions/poj2524.cpp
 [2593]: https://github.com/zj-1/poj/blob/master/solutions/poj2593.cpp
 [2663]: https://github.com/zj-1/poj/blob/master/solutions/poj2663.cpp
