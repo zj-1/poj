@@ -1,6 +1,7 @@
 // poj 1251
 // 388K 0MS G++
 // prim MST
+// take care of the input
 #include <climits>
 #include <cstdio>
 #include <cstdlib>
@@ -10,7 +11,8 @@
 #define MIN(X, Y) ((X) < (Y) ? (X) : (Y))
 #define MAXN 27
 
-int N, res, dis[MAXN][MAXN], mdis[MAXN];
+int N, res, dis[MAXN][MAXN], mdis[MAXN], tx, ty, k, tt;
+char c;
 bool vis[MAXN];
 
 int find() {
@@ -33,14 +35,12 @@ int main(int argc, char const *argv[])
     while (scanf("%d", &N) && N != 0) {
 
         memset(dis, 0xff, sizeof(dis));
-        int tx, ty, k, tt;
-        char c[3];
         for (int i = 0; i < N - 1; i++) {
-            scanf("%s %d", c, &k);
-            tx = c[0] - 'A';
+            scanf("%*[ \n\t]%c %d", &c, &k);
+            tx = c - 'A';
             while(k-- > 0) {
-                scanf("%s %d", c, &tt);
-                ty = c[0] - 'A';
+                scanf("%*[ \n\t]%c %d", &c, &tt);
+                ty = c - 'A';
                 dis[tx][ty] = dis[ty][tx] = tt;
             }
         }
