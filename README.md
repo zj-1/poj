@@ -1,5 +1,4 @@
 # soltions for [poj](http://poj.org/)
--------------------------------------
 
 ## Simulation
 
@@ -39,7 +38,7 @@
 
 ## Graph Theory
 
-[1041] [1041], [1751] [1751], [2485] [2485]
+[1041] [1041], [1751] [1751], [2485] [2485], [1861] [1861]
 
 [1001]: https://github.com/zj-1/poj/blob/master/solutions/poj1001.cpp
 [1007]: https://github.com/zj-1/poj/blob/master/solutions/poj1007.cpp
@@ -58,6 +57,7 @@
 [1703]: https://github.com/zj-1/poj/blob/master/solutions/poj1703.cpp
 [1751]: https://github.com/zj-1/poj/blob/master/solutions/poj1751.cpp
 [1799]: https://github.com/zj-1/poj/blob/master/solutions/poj1799.cpp
+[1861]: https://github.com/zj-1/poj/blob/master/solutions/poj1861.cpp
 [1922]: https://github.com/zj-1/poj/blob/master/solutions/poj1922.cpp
 [1979]: https://github.com/zj-1/poj/blob/master/solutions/poj1979.cpp
 [1988]: https://github.com/zj-1/poj/blob/master/solutions/poj1988.cpp
