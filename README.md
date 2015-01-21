@@ -29,11 +29,12 @@
 
 [1041] [1041], [1751] [1751], [2485] [2485], [1861] [1861], [2395] [2395],
 [2377] [2377], [2421] [2421], [1679] [1679], [1258] [1258], [1251] [1251],
-[3625] [3625], [1789] [1789], [2387] [2387]
+[3625] [3625], [1789] [1789], [2387] [2387], [1287] [1287]
 
 ## Template
 
 Dijkstra: [2387] [2387]
+Prim:     [1287] [1287]
 
 [poj]:  http://poj.org/
 [1001]: https://github.com/zj-1/poj/blob/master/solutions/poj1001.cpp
@@ -48,6 +49,7 @@ Dijkstra: [2387] [2387]
 [1182]: https://github.com/zj-1/poj/blob/master/solutions/poj1182.cpp
 [1251]: https://github.com/zj-1/poj/blob/master/solutions/poj1251.cpp
 [1258]: https://github.com/zj-1/poj/blob/master/solutions/poj1258.cpp
+[1287]: https://github.com/zj-1/poj/blob/master/solutions/poj1287.cpp
 [1308]: https://github.com/zj-1/poj/blob/master/solutions/poj1308.cpp
 [1321]: https://github.com/zj-1/poj/blob/master/solutions/poj1321.cpp
 [1401]: https://github.com/zj-1/poj/blob/master/solutions/poj1401.cpp
