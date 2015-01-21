@@ -34,7 +34,10 @@
 ## Template
 
 Dijkstra: [2387] [2387]
+
 Prim:     [1287] [1287]
+
+Kruskal:  [2377] [2377]
 
 [poj]:  http://poj.org/
 [1001]: https://github.com/zj-1/poj/blob/master/solutions/poj1001.cpp
