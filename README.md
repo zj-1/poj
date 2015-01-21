@@ -29,15 +29,7 @@
 
 [1041] [1041], [1751] [1751], [2485] [2485], [1861] [1861], [2395] [2395],
 [2377] [2377], [2421] [2421], [1679] [1679], [1258] [1258], [1251] [1251],
-[3625] [3625], [1789] [1789], [2387] [2387], [1287] [1287]
-
-## Template
-
-Dijkstra: [2387] [2387]
-
-Prim:     [1287] [1287]
-
-Kruskal:  [2377] [2377]
+[3625] [3625], [1789] [1789], [2387] [2387], [1287] [1287], [2253] [2253]
 
 [poj]:  http://poj.org/
 [1001]: https://github.com/zj-1/poj/blob/master/solutions/poj1001.cpp
@@ -71,6 +63,7 @@ Kruskal:  [2377] [2377]
 [2236]: https://github.com/zj-1/poj/blob/master/solutions/poj2236.cpp
 [2245]: https://github.com/zj-1/poj/blob/master/solutions/poj2245.cpp
 [2251]: https://github.com/zj-1/poj/blob/master/solutions/poj2251.cpp
+[2253]: https://github.com/zj-1/poj/blob/master/solutions/poj2253.cpp
 [2377]: https://github.com/zj-1/poj/blob/master/solutions/poj2377.cpp
 [2385]: https://github.com/zj-1/poj/blob/master/solutions/poj2385.cpp
 [2386]: https://github.com/zj-1/poj/blob/master/solutions/poj2386.cpp
