@@ -65,6 +65,7 @@
 [1847] [1847],
 [1861] [1861],
 [1860] [1860],
+[2240] [2240],
 [2253] [2253],
 [2377] [2377],
 [2387] [2387],
@@ -110,6 +111,7 @@
 [2136]: https://github.com/zj-1/poj/blob/master/solutions/poj2136.cpp
 [2231]: https://github.com/zj-1/poj/blob/master/solutions/poj2231.cpp
 [2236]: https://github.com/zj-1/poj/blob/master/solutions/poj2236.cpp
+[2240]: https://github.com/zj-1/poj/blob/master/solutions/poj2240.cpp
 [2245]: https://github.com/zj-1/poj/blob/master/solutions/poj2245.cpp
 [2251]: https://github.com/zj-1/poj/blob/master/solutions/poj2251.cpp
 [2253]: https://github.com/zj-1/poj/blob/master/solutions/poj2253.cpp
