@@ -70,6 +70,7 @@
 [2395] [2395],
 [2421] [2421],
 [2485] [2485],
+[3259] [3259],
 [3268] [3268],
 [3625] [3625]
 
@@ -124,6 +125,7 @@
 [2593]: https://github.com/zj-1/poj/blob/master/solutions/poj2593.cpp
 [2663]: https://github.com/zj-1/poj/blob/master/solutions/poj2663.cpp
 [3051]: https://github.com/zj-1/poj/blob/master/solutions/poj3051.cpp
+[3259]: https://github.com/zj-1/poj/blob/master/solutions/poj3259.cpp
 [3268]: https://github.com/zj-1/poj/blob/master/solutions/poj3268.cpp
 [3278]: https://github.com/zj-1/poj/blob/master/solutions/poj3278.cpp
 [3620]: https://github.com/zj-1/poj/blob/master/solutions/poj3620.cpp
