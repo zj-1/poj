@@ -73,7 +73,8 @@
 [2485] [2485],
 [3259] [3259],
 [3268] [3268],
-[3625] [3625]
+[3625] [3625],
+[3660] [3660]
 
 [poj]:  http://poj.org/
 [1001]: https://github.com/zj-1/poj/blob/master/solutions/poj1001.cpp
@@ -132,4 +133,5 @@
 [3278]: https://github.com/zj-1/poj/blob/master/solutions/poj3278.cpp
 [3620]: https://github.com/zj-1/poj/blob/master/solutions/poj3620.cpp
 [3625]: https://github.com/zj-1/poj/blob/master/solutions/poj3625.cpp
+[3660]: https://github.com/zj-1/poj/blob/master/solutions/poj3660.cpp
 [3748]: https://github.com/zj-1/poj/blob/master/solutions/poj3748.cpp
