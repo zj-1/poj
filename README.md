@@ -8,7 +8,9 @@
 [1799] [1799],
 [1922] [1922],
 [2136] [2136],
+[2442] [2442]
 [2495] [2495],
+[2503] [2503],
 [3748] [3748]
 
 ## DP & Greedy
@@ -36,10 +38,6 @@
 [3051] [3051],
 [3278] [3278],
 [3620] [3620]
-
-## Heap
-
-[2442] [2442]
 
 ## Disjoint set
 
@@ -144,6 +142,7 @@
 [2492]: https://github.com/zj-1/poj/blob/master/solutions/poj2492.cpp
 [2495]: https://github.com/zj-1/poj/blob/master/solutions/poj2495.cpp
 [2502]: https://github.com/zj-1/poj/blob/master/solutions/poj2502.cpp
+[2503]: https://github.com/zj-1/poj/blob/master/solutions/poj2503.cpp
 [2524]: https://github.com/zj-1/poj/blob/master/solutions/poj2524.cpp
 [2593]: https://github.com/zj-1/poj/blob/master/solutions/poj2593.cpp
 [2663]: https://github.com/zj-1/poj/blob/master/solutions/poj2663.cpp
