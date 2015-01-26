@@ -52,6 +52,7 @@
 ## KMP
 
 [2406] [2406],
+[2752] [2752],
 [3461] [3461]
 
 ## Graph Theory
@@ -152,6 +153,7 @@
 [2524]: https://github.com/zj-1/poj/blob/master/solutions/poj2524.cpp
 [2593]: https://github.com/zj-1/poj/blob/master/solutions/poj2593.cpp
 [2663]: https://github.com/zj-1/poj/blob/master/solutions/poj2663.cpp
+[2752]: https://github.com/zj-1/poj/blob/master/solutions/poj2752.cpp
 [3051]: https://github.com/zj-1/poj/blob/master/solutions/poj3051.cpp
 [3259]: https://github.com/zj-1/poj/blob/master/solutions/poj3259.cpp
 [3268]: https://github.com/zj-1/poj/blob/master/solutions/poj3268.cpp
