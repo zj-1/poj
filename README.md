@@ -51,6 +51,7 @@
 
 ## KMP
 
+[1961] [1961],
 [2406] [2406],
 [2752] [2752],
 [3461] [3461],
@@ -128,6 +129,7 @@
 [1861]: https://github.com/zj-1/poj/blob/master/solutions/poj1861.cpp
 [1860]: https://github.com/zj-1/poj/blob/master/solutions/poj1860.cpp
 [1922]: https://github.com/zj-1/poj/blob/master/solutions/poj1922.cpp
+[1961]: https://github.com/zj-1/poj/blob/master/solutions/poj1961.cpp
 [1979]: https://github.com/zj-1/poj/blob/master/solutions/poj1979.cpp
 [1988]: https://github.com/zj-1/poj/blob/master/solutions/poj1988.cpp
 [2136]: https://github.com/zj-1/poj/blob/master/solutions/poj2136.cpp
