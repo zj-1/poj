@@ -53,7 +53,8 @@
 
 [2406] [2406],
 [2752] [2752],
-[3461] [3461]
+[3461] [3461],
+[3690] [3690]
 
 ## Graph Theory
 
@@ -163,4 +164,5 @@
 [3620]: https://github.com/zj-1/poj/blob/master/solutions/poj3620.cpp
 [3625]: https://github.com/zj-1/poj/blob/master/solutions/poj3625.cpp
 [3660]: https://github.com/zj-1/poj/blob/master/solutions/poj3660.cpp
+[3690]: https://github.com/zj-1/poj/blob/master/solutions/poj3690.cpp
 [3748]: https://github.com/zj-1/poj/blob/master/solutions/poj3748.cpp

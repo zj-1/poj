@@ -18,7 +18,7 @@ int kmp()
         if (w[k + 1] == w[i]) { k++; }
         next[i] = k;
     }
-    for (int i = 0; i < 10; i++) { printf("%d: %d\n", i, next[i]); }
+    // for (int i = 0; i < 10; i++) { printf("%d: %d\n", i, next[i]); }
     k = -1;
     for (int i = 0; t[i] != 0; i++) {
         while (k > -1 && w[k + 1] != t[i]) { k = next[k]; }
