@@ -58,6 +58,10 @@
 [3461] [3461],
 [3690] [3690]
 
+## Segment Tree
+
+[3264] [3264]
+
 ## Graph Theory
 
 [1041] [1041],
@@ -163,6 +167,7 @@
 [3080]: https://github.com/zj-1/poj/blob/master/solutions/poj3080.cpp
 [3259]: https://github.com/zj-1/poj/blob/master/solutions/poj3259.cpp
 [3268]: https://github.com/zj-1/poj/blob/master/solutions/poj3268.cpp
+[3264]: https://github.com/zj-1/poj/blob/master/solutions/poj3264.cpp
 [3278]: https://github.com/zj-1/poj/blob/master/solutions/poj3278.cpp
 [3461]: https://github.com/zj-1/poj/blob/master/solutions/poj3461.cpp
 [3615]: https://github.com/zj-1/poj/blob/master/solutions/poj3615.cpp
