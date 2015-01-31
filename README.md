@@ -133,6 +133,7 @@
 [1789]: https://github.com/zj-1/poj/blob/master/solutions/poj1789.cpp
 [1799]: https://github.com/zj-1/poj/blob/master/solutions/poj1799.cpp
 [1797]: https://github.com/zj-1/poj/blob/master/solutions/poj1797.cpp
+[1823]: https://github.com/zj-1/poj/blob/master/solutions/poj1823.cpp
 [1847]: https://github.com/zj-1/poj/blob/master/solutions/poj1847.cpp
 [1861]: https://github.com/zj-1/poj/blob/master/solutions/poj1861.cpp
 [1860]: https://github.com/zj-1/poj/blob/master/solutions/poj1860.cpp
