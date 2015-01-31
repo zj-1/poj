@@ -61,6 +61,7 @@
 ## Segment Tree
 
 [1823] [1823],
+[2828] [2828],
 [3264] [3264]
 
 ## Graph Theory
@@ -103,7 +104,8 @@
 [1679] [1679],
 [1703] [1703],
 [1823] [1823],
-[1961] [1961]
+[1961] [1961],
+[2828] [2828]
 
 [poj]:  http://poj.org/
 [1001]: https://github.com/zj-1/poj/blob/master/solutions/poj1001.cpp
@@ -166,6 +168,7 @@
 [2593]: https://github.com/zj-1/poj/blob/master/solutions/poj2593.cpp
 [2663]: https://github.com/zj-1/poj/blob/master/solutions/poj2663.cpp
 [2752]: https://github.com/zj-1/poj/blob/master/solutions/poj2752.cpp
+[2828]: https://github.com/zj-1/poj/blob/master/solutions/poj2828.cpp
 [3051]: https://github.com/zj-1/poj/blob/master/solutions/poj3051.cpp
 [3080]: https://github.com/zj-1/poj/blob/master/solutions/poj3080.cpp
 [3259]: https://github.com/zj-1/poj/blob/master/solutions/poj3259.cpp
