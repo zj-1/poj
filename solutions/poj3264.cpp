@@ -23,16 +23,16 @@ void init()
     }
 }
 
-void rmq(int idx, int s1, int t1, int s2, int t2)
+void rmq(int idx, int rl, int rr, int ql, int qr)
 {
-    if (s2 > t2) return;
-    if (s1 == s2 && t1 == t2) {
+    if (ql > qr) return;
+    if (rl == ql && rr == qr) {
         maxx = MAX(maxx, a[idx]);
         minx = MIN(minx, b[idx]);
     } else {
-        int mid = (s1 + t1) / 2;
-        rmq(idx * 2, s1, mid, s2, MIN(mid, t2));
-        rmq(idx * 2 + 1, mid + 1, t1, MAX(mid + 1, s2), t2);
+        int mid = (rl + rr) / 2;
+        rmq(idx * 2, rl, mid, ql, MIN(mid, qr));
+        rmq(idx * 2 + 1, mid + 1, rr, MAX(mid + 1, ql), qr);
     }
 }
 
