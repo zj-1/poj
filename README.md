@@ -72,6 +72,7 @@
 [1251] [1251],
 [1258] [1258],
 [1273] [1273],
+[1274] [1274],
 [1287] [1287],
 [1502] [1502],
 [1511] [1511],
@@ -126,6 +127,7 @@
 [1251]: https://github.com/zj-1/poj/blob/master/solutions/poj1251.cpp
 [1258]: https://github.com/zj-1/poj/blob/master/solutions/poj1258.cpp
 [1273]: https://github.com/zj-1/poj/blob/master/solutions/poj1273.cpp
+[1274]: https://github.com/zj-1/poj/blob/master/solutions/poj1274.cpp
 [1287]: https://github.com/zj-1/poj/blob/master/solutions/poj1287.cpp
 [1308]: https://github.com/zj-1/poj/blob/master/solutions/poj1308.cpp
 [1321]: https://github.com/zj-1/poj/blob/master/solutions/poj1321.cpp
