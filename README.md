@@ -67,6 +67,7 @@
 ## Graph Theory
 
 [1041] [1041],
+[1062] [1062],
 [1094] [1094],
 [1125] [1125],
 [1251] [1251],
@@ -102,6 +103,7 @@
 ## Recommendation
 
 [1001] [1001],
+[1062] [1062],
 [1094] [1094],
 [1182] [1182],
 [1511] [1511],
@@ -119,6 +121,7 @@
 [1018]: https://github.com/zj-1/poj/blob/master/solutions/poj1018.cpp
 [1041]: https://github.com/zj-1/poj/blob/master/solutions/poj1041.cpp
 [1050]: https://github.com/zj-1/poj/blob/master/solutions/poj1050.cpp
+[1062]: https://github.com/zj-1/poj/blob/master/solutions/poj1062.cpp
 [1077]: https://github.com/zj-1/poj/blob/master/solutions/poj1077.cpp
 [1088]: https://github.com/zj-1/poj/blob/master/solutions/poj1088.cpp
 [1094]: https://github.com/zj-1/poj/blob/master/solutions/poj1094.cpp
