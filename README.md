@@ -85,6 +85,7 @@
 [1847] [1847],
 [1861] [1861],
 [1860] [1860],
+[1975] [1975],
 [2240] [2240],
 [2253] [2253],
 [2377] [2377],
@@ -93,6 +94,7 @@
 [2421] [2421],
 [2485] [2485],
 [2502] [2502],
+[3026] [3026],
 [3041] [3041],
 [3259] [3259],
 [3268] [3268],
@@ -113,6 +115,7 @@
 [1823] [1823],
 [1961] [1961],
 [2828] [2828],
+[3026] [3026],
 [3041] [3041]
 
 [poj]:  http://poj.org/
@@ -153,6 +156,7 @@
 [1860]: https://github.com/zj-1/poj/blob/master/solutions/poj1860.cpp
 [1922]: https://github.com/zj-1/poj/blob/master/solutions/poj1922.cpp
 [1961]: https://github.com/zj-1/poj/blob/master/solutions/poj1961.cpp
+[1975]: https://github.com/zj-1/poj/blob/master/solutions/poj1975.cpp
 [1979]: https://github.com/zj-1/poj/blob/master/solutions/poj1979.cpp
 [1988]: https://github.com/zj-1/poj/blob/master/solutions/poj1988.cpp
 [2136]: https://github.com/zj-1/poj/blob/master/solutions/poj2136.cpp
@@ -181,6 +185,7 @@
 [2663]: https://github.com/zj-1/poj/blob/master/solutions/poj2663.cpp
 [2752]: https://github.com/zj-1/poj/blob/master/solutions/poj2752.cpp
 [2828]: https://github.com/zj-1/poj/blob/master/solutions/poj2828.cpp
+[3026]: https://github.com/zj-1/poj/blob/master/solutions/poj3026.cpp
 [3041]: https://github.com/zj-1/poj/blob/master/solutions/poj3041.cpp
 [3051]: https://github.com/zj-1/poj/blob/master/solutions/poj3051.cpp
 [3080]: https://github.com/zj-1/poj/blob/master/solutions/poj3080.cpp

@@ -28,7 +28,7 @@ int main(int argc, char *argv[])
             g[0][M] = 1; g[M][0] = 1;
         }
 
-        for (int i = 1; i < 19; i++) {
+        for (int i = 1; i < MAXN - 1; i++) {
             scanf("%d", &N);
             while (N-- > 0) {
                 scanf("%d", &M); M--;
@@ -36,9 +36,9 @@ int main(int argc, char *argv[])
             }
         }
 
-        for (int k = 0; k < 20; k++) {
-            for (int i = 0; i < 20; i++) {
-                for (int j = 0; j < 20; j++) {
+        for (int k = 0; k < MAXN; k++) {
+            for (int i = 0; i < MAXN; i++) {
+                for (int j = 0; j < MAXN; j++) {
                     g[i][j] = MIN(g[i][j], g[i][k] + g[k][j]);
                 }
             }
