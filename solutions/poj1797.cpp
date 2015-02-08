@@ -32,7 +32,6 @@ int dijkstra()
         vis[k] = true;
         for (int j = 0; j < N; j++) {
             if (g[k][j] == 0) continue;
-            if (mdis[k] == -1) continue;
             mdis[j] = MAX(mdis[j], MIN(mdis[k], g[k][j]));
         }
     }
