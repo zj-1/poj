@@ -79,6 +79,7 @@
 [1511] [1511],
 [1603] [1603],
 [1679] [1679],
+[1724] [1724],
 [1751] [1751],
 [1789] [1789],
 [1797] [1797],
@@ -113,6 +114,7 @@
 [1511] [1511],
 [1679] [1679],
 [1703] [1703],
+[1724] [1724],
 [1823] [1823],
 [1961] [1961],
 [2828] [2828],
@@ -147,6 +149,7 @@
 [1603]: https://github.com/zj-1/poj/blob/master/solutions/poj1603.cpp
 [1679]: https://github.com/zj-1/poj/blob/master/solutions/poj1679.cpp
 [1703]: https://github.com/zj-1/poj/blob/master/solutions/poj1703.cpp
+[1724]: https://github.com/zj-1/poj/blob/master/solutions/poj1724.cpp
 [1751]: https://github.com/zj-1/poj/blob/master/solutions/poj1751.cpp
 [1789]: https://github.com/zj-1/poj/blob/master/solutions/poj1789.cpp
 [1799]: https://github.com/zj-1/poj/blob/master/solutions/poj1799.cpp
