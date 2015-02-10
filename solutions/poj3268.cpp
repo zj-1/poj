@@ -32,6 +32,7 @@ void dijkstra(bool flag)
         if (k == -1) break;
         vis[k] = true;
         for (int j = 0; j < N; j++) {
+            if (vis[j]) continue;
             if (flag)
                 mdis[j] = MIN(mdis[j], mdis[k] + g[k][j]);
             else
