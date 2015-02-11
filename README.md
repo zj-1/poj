@@ -8,6 +8,7 @@
 [1799] [1799],
 [1922] [1922],
 [2136] [2136],
+[2339] [2339],
 [2442] [2442]
 [2495] [2495],
 [2503] [2503],
@@ -170,6 +171,7 @@
 [2245]: https://github.com/zj-1/poj/blob/master/solutions/poj2245.cpp
 [2251]: https://github.com/zj-1/poj/blob/master/solutions/poj2251.cpp
 [2253]: https://github.com/zj-1/poj/blob/master/solutions/poj2253.cpp
+[2339]: https://github.com/zj-1/poj/blob/master/solutions/poj2339.cpp
 [2377]: https://github.com/zj-1/poj/blob/master/solutions/poj2377.cpp
 [2385]: https://github.com/zj-1/poj/blob/master/solutions/poj2385.cpp
 [2386]: https://github.com/zj-1/poj/blob/master/solutions/poj2386.cpp
