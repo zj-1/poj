@@ -1,6 +1,6 @@
 // poj 1724
 // 1236K 32MS G++
-// constrained dijkstra
+// constrained dijkstra or more properly, greedy bfs
 #include <climits>
 #include <cstdio>
 #include <cmath>
