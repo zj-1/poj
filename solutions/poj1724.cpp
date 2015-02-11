@@ -16,9 +16,6 @@ using namespace std;
 #define MAXN 100
 #define MAXR 10000
 
-const int nMax = 105;
-const int mMax = 10005;
-
 struct node {
     int v, l, t;
     struct node *next;
